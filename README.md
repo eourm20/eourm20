@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Morgan's%20GitHub&fontSize=42" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=SUBIN's%20GitHub&fontSize=42" />
 
 <div align=center>
 <h3>👋 Subin Oh <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
@@ -73,13 +73,14 @@
   Drone Path Optimization for Pine Wilt Disease Detection
 ---
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eourm20&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eourm20&layout=compact&theme=tokyonight)
+<a href='https://grafana.com/'>![js](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)</a>
+![js](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eourm20&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 ---
 
 ## 🔗 Links
-% - 🌐 Portfolio: https://buly.kr/7mC3sLL
 - 📝 Blog: https://eourm.tistory.com/
 - 💻 GitHub: https://github.com/eourm20
 - ✉️ Email: sboh0020@gmail.com
