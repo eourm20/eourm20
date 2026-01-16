@@ -82,10 +82,10 @@
 - 🏆 **Student Output Exhibition Encouragement Award (2021)**  
   Weather Data-based Heatwave Prediction & Visualization Dashboard
 
-- 📄 **Patent Filed (2022)**  
+- 📄 **Patent Application (2022)**  
   Multimodal-based Illegal Advertisement Detection System
 
-- 📄 **Patent Filed (2024)**  
+- 📄 **Patent Application (2024)**  
   Drone Path Optimization for Pine Wilt Disease Detection
 
 ---
