@@ -16,25 +16,20 @@
 ---
 
 ## 🧠 About Me
-- AI 모델 **연구 → 개발 → 서비스화** 전 주기 경험
-- Video / Time-series / Multimodal / Reinforcement Learning
-- 9+ 산학 프로젝트 · 13회 학회 발표 · 2건 특허(출원)
-- 반도체 · 의료 · CCTV · 재활 · 제조 도메인 경험
-- 연구실 **Lab Leader** 경험
+- Experience in Video, Time-series, Multimodal, and Reinforcement Learning
+- 9+ industry–academic projects, 13 conference presentations, and 2 patent applications
+- Hands-on experience across semiconductor, healthcare, surveillance (CCTV), rehabilitation, and manufacturing domains
+- Lab Leader at **[AIaaS Lab (Artificial Intelligence as a Service Lab)](https://sites.google.com/view/aiaas/main?authuser=0)** (2024)
 
 ---
 
 ## 🔬 Research Interests
 - Anomaly Detection (Video / Time-series)
 - Weakly & Semi-supervised Learning
-- Knowledge Distillation
-- Concept Drift & Adaptive Learning
-- Vision-based Behavior Understanding
 - Reinforcement Learning for Optimization
   
 ---
 
-📚 Languages / Library / Tools 📚
 ## 🛠 Tech Stack
 
 ### 💻 Languages
@@ -55,6 +50,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![WandB](https://img.shields.io/badge/W%26B-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
 ![ClearML](https://img.shields.io/badge/ClearML-4B8BBE?style=flat)
+![js](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 ### ☁️ Cloud / OS
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
@@ -63,7 +59,7 @@
 
 ---
 
-## 📌 Selected Projects & Honors
+## 📌 Honors & Patents
 
 - 🥇 **Best Presentation Award (2024)**  
   *Korea Data Mining Society – Spring Conference*  
@@ -91,13 +87,6 @@
 
 - 📄 **Patent Application (2024)**  
   Drone Path Optimization for Pine Wilt Disease Detection
-
----
-
-## 📊 GitHub Stats
-![js](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eourm20&layout=compact&langs_count=6&hide=html,css)
-
 
 ---
 
