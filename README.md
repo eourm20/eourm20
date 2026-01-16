@@ -61,21 +61,33 @@
 
 ## 📌 Selected Projects & Honors
 
-- 🏆 **Best Presentation Award (2024)**  
-  Knowledge Distillation-based Weakly/Semi-supervised Video Anomaly Detection
+- 🥇 **Best Presentation Award (2024)**  
+  *Korea Data Mining Society – Spring Conference*  
+  Knowledge Distillation-based Weakly & Semi-supervised Video Anomaly Detection
 
-- 🏅 **Outstanding Paper Award (ACK 2023)**  
-  Early Detection & Interpretation of Concept Drift
+- 🏅 **Outstanding Paper Award (2023)**  
+  *ACK 2023, Korea Information Processing Society*  
+  Early Detection and Interpretation of Time-series Concept Drift
 
-- 🥉 **AI Hackathon Bronze Prize**  
-  Image Classification Ensemble Model
+- 🥉 **AI Hackathon Bronze Prize (2022)**  
+  *Kwangwoon University AI Hackathon*  
+  EfficientNet Ensemble-based Image Classification Model
+
+- 🏆 **Graduation Project Encouragement Award (2022)**  
+  Cloud-based False & Exaggerated Advertisement Detection System
+
+- 🏆 **Industry-Academic SW Project Encouragement Award (2022)**  
+  LSTM-XAI based Illegal Advertisement Detection Service
+
+- 🏆 **Student Output Exhibition Encouragement Award (2021)**  
+  Weather Data-based Heatwave Prediction & Visualization Dashboard
 
 - 📄 **Patent Filed (2022)**  
-  Multimodal-based Illegal Advertisement Detection
+  Multimodal-based Illegal Advertisement Detection System
 
 - 📄 **Patent Filed (2024)**  
   Drone Path Optimization for Pine Wilt Disease Detection
-  
+
 ---
 
 ## 📊 GitHub Stats
