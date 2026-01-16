@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=SUBIN's%20GitHub&fontSize=42" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=SUBIN's%20GitHub&fontSize=40"
+  width="100%"
+/>
+
 
 <h3 align="center">
 👋 Subin Oh 
