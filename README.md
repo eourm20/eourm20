@@ -1,12 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=SUBIN's%20GitHub&fontSize=42" />
 
-<div align=center>
-<h3>👋 Subin Oh <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
+<h3 align="center">
+👋 Subin Oh 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" width="25" />
 </h3>
 
-📍 Korea  
-🎓 M.S. in Artificial Intelligence  
-🔬 AI Model Development & Research 
+<p align="center">
+📍 Korea · 🎓 M.S. in Artificial Intelligence · 🔬 AI Model Development & Research
+</p>
 
 ---
 
@@ -78,11 +79,9 @@
 ---
 
 ## 📊 GitHub Stats
-<a href='https://grafana.com/'>![js](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)</a>
 ![js](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eourm20&layout=compact&langs_count=6&hide=html,css)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eourm20&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 ---
 
