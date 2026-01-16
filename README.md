@@ -9,6 +9,7 @@
 🔬 AI Model Development & Research 
 
 ---
+
 ## 🧠 About Me
 - AI 모델 **연구 → 개발 → 서비스화** 전 주기 경험
 - Video / Time-series / Multimodal / Reinforcement Learning
@@ -17,6 +18,7 @@
 - 연구실 **Lab Leader** 경험
 
 ---
+
 ## 🔬 Research Interests
 - Anomaly Detection (Video / Time-series)
 - Weakly & Semi-supervised Learning
@@ -24,6 +26,7 @@
 - Concept Drift & Adaptive Learning
 - Vision-based Behavior Understanding
 - Reinforcement Learning for Optimization
+  
 ---
 
 📚 Languages / Library / Tools 📚
@@ -71,13 +74,16 @@
 
 - 📄 **Patent Filed (2024)**  
   Drone Path Optimization for Pine Wilt Disease Detection
+  
 ---
+
 ## 📊 GitHub Stats
 <a href='https://grafana.com/'>![js](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)</a>
 ![js](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eourm20&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
 ---
 
 ## 🔗 Links
